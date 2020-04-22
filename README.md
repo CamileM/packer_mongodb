@@ -1,1 +1,3 @@
-# packer_mongodb.json
+# Packer: 'packer_mongodb.json'
+
+## What is a Packer?
